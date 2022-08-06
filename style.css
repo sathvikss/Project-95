@@ -1,0 +1,12 @@
+body{
+    align-content: center;
+    text-align: center;
+    background-color: aqua;
+}
+#kwitter-image{
+    border-radius: 60px;
+    width: 200px;
+    height: 200px;
+    
+
+}
